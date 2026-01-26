@@ -12,3 +12,6 @@
 * 악용 하시면 안됩니다!!!
 
 * 피드백 환영🙋‍♂️
+
+* Faker 라이브러리를 사용하여 구현.
+https://faker.readthedocs.io/en/master/index.html
